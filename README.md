@@ -1,4 +1,4 @@
-#Game-Cobrinha-HTML-CSS-JS
+# Game-Cobrinha-HTML-CSS-JS
 Recriação do clássico Jogo da Cobrinha com JavaScript
 
 ## O que foi feito
